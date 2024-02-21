@@ -1,0 +1,5 @@
+#!/bin/sh
+
+set -e
+
+chmod 4755 /opt/apps/com.cef/files/cef/chrome-sandbox

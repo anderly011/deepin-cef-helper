@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+org.deepin.cef (1.0.0) UNRELEASED; urgency=medium
 
-  * Initial release
+  * Initial release.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- liandong <liandong@uniontech.com>  Mon, 19 Feb 2024 14:21:53 +0800
