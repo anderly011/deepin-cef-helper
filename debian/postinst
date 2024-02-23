@@ -2,4 +2,4 @@
 
 set -e
 
-chmod 4755 /opt/apps/com.cef/files/cef/chrome-sandbox
+chmod 4755 /opt/apps/deepin-cef-helper/files/cef/chrome-sandbox

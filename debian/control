@@ -1,14 +1,12 @@
-Source: org.deepin.cef
-Section: web
+Source: deepin-cef-helper
+Section: metapackages
 Priority: optional
-Maintainer: Deepin Browser <browser@deepin.com>
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
 Build-Depends: debhelper (>= 9), libffi7 [loongarch64]
-Standards-Version: v30.0.0-nightly.20231218
-Homepage: https://www.deepin.com/
-Rules-Requires-Root: no
+Standards-Version: 4.5.1
 
-Package: org.deepin.cef
+Package: deepin-cef-helper
 Architecture: any
 Depends: ${misc:Depends}
-Description: org.deepin.cef
- A fast web browser with simple interface.
+Description: The Chromium Embedded Framework (CEF)
+ A simple framework for embedding Chromium-based browsers in other applications.
